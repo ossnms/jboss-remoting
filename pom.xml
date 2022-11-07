@@ -27,7 +27,7 @@
 
     <groupId>org.jboss.remoting</groupId>
     <artifactId>jboss-remoting</artifactId>
-    <version>5.0.10.Final</version>
+    <version>5.0.10.Final-ossnms-1</version>
 
     <packaging>jar</packaging>
 
